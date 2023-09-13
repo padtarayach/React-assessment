@@ -9,7 +9,6 @@
   display: flex;
   align-items: center;
   background-color: lightgrey;
-  border: 2px solid black;
   justify-content: end;
   gap: 10px;
   padding: 10px;
@@ -21,7 +20,6 @@
   align-items: center;
   justify-content: center;
   height:300px;
-  border: 2px solid purple;
 }
 
 .input-container{
